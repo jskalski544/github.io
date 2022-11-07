@@ -1,8 +1,11 @@
-# Tabela 
+# Tabela {#x}
 |Pierwsza kolumna|Druga kolumna|Trzecia kolumna| 
 |:--------------:|:-----------:|:-------------:| 
 |1|2|3|  
  
-![git.jpg](git.jpg)
+# Obrazek {#z}
+![git.jpg](git.jpg) 
+(#x) 
+(#z)
 
 
