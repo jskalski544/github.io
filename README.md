@@ -9,7 +9,7 @@
  
 # Obrazek {#z}  
 ![git.jpg](git.jpg)   
-[Link do Tabela](#x)  
-[Link do Obrazek](#z)  
+[Link do Tabela] (#x)  
+[Link do Obrazek] (#z)  
 
 
