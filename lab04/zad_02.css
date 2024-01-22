@@ -1,0 +1,21 @@
+.A {
+  background-color: lightblue;
+  border: 2px solid blue;
+  text-align: center;
+  height: 200px;
+  width: 400px;
+  position: absolute;
+  top: 40%;
+  left: 35%;
+}
+
+.B {
+  background-color: lightsalmon;
+  border: 2px solid red;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 200px;
+  width: 400px;
+  text-align: center;
+}/*# sourceMappingURL=zad_02.css.map */

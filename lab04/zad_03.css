@@ -1,0 +1,86 @@
+body {
+  background-color: #F9F8F8;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-item {
+  padding: 20px;
+  display: block;
+  width: 100%;
+  background-color: rgb(223, 232, 224);
+  position: fixed;
+  top: 0px;
+  font-weight: bold;
+  font-size: 20px;
+  color: gray;
+}
+
+.section {
+  position: relative;
+  top: 100px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.event {
+  border: 2px solid gray;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.info {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 2%;
+  margin-right: 2%;
+  margin-left: 88%;
+  background-color: lightyellow;
+  border: 2px solid yellow;
+  border-radius: 20px;
+  display: inline-block;
+  padding: 10px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.date {
+  text-align: right;
+  position: relative;
+  bottom: 20px;
+}
+
+.organizer {
+  position: relative;
+  bottom: 20px;
+}
+
+.primary {
+  color: white;
+  background-color: blue;
+}
+
+.secondary {
+  background-color: white;
+  color: blue;
+}
+
+button {
+  border: 1px solid blue;
+  font-size: 20px;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.description {
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-size: 40px;
+}/*# sourceMappingURL=zad_03.css.map */

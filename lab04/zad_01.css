@@ -1,0 +1,26 @@
+.A {
+  position: relative;
+  top: 5px;
+  left: 50px;
+  height: 0px;
+}
+
+.B {
+  position: relative;
+  bottom: 40px;
+  left: 50px;
+  height: 0px;
+}
+
+.C {
+  display: inline-block;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  background-color: yellow;
+  padding-left: 0;
+  padding-right: 550px;
+  padding-top: 20px;
+  padding-bottom: 80px;
+  border: 5px solid red;
+}/*# sourceMappingURL=zad_01.css.map */

@@ -1,0 +1,74 @@
+body {
+    background-color: #F9F8F8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  } 
+h1{ 
+    color: green;
+} 
+h2{ 
+    color: orangered;
+} 
+h3{ 
+    text-decoration: underline; 
+    color: brown;    
+} 
+a{ 
+    text-decoration: none; 
+    color: blue;
+}
+
+.wall{ 
+    text-align: center; 
+    line-height: 1.5em;
+    a{ 
+        color: brown; 
+    } 
+    h1{ 
+        color: yellow; 
+        font-style: italic; 
+        text-shadow:2px 2px 2px brown;
+    }
+
+} 
+.strong{ 
+    font-weight: bold;     
+}  
+.header{ 
+    font-style: italic;
+}
+.box{ 
+    background-color: white; 
+    color: dimgray; 
+
+} 
+.section{ 
+    background-color: #eee;
+}
+h3{ 
+    a{ 
+        color: brown; 
+        text-transform: uppercase;
+    }
+}  
+.box-color{ 
+    font-size: 30px; 
+    color: white; 
+}
+.item-1{ 
+    background-color:lightgrey ;    
+} 
+.item-2{ 
+    background-color: lightgreen;    
+} 
+.item-3{ 
+    background-color: lightpink;  
+} 
+.item-4{ 
+    background-color: lightsalmon; 
+} 
+.item-5{ 
+    background-color: lightseagreen; 
+} 
+.item-6{ 
+    background-color: lightskyblue; 
+} 

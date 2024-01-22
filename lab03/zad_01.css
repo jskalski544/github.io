@@ -1,0 +1,25 @@
+body{ 
+    font-family: Arial;
+} 
+.box{ 
+    background-color: lightgray; 
+    border: 2px solid black; 
+    padding: 10px; 
+    width: 50%;
+} 
+.box-content{ 
+    border: 5px solid white; 
+    padding: 10px; 
+    margin: 10px;
+} 
+.box-border-i{ 
+    border: 1px solid black; 
+    padding: 10px;
+} 
+.box-border-o{ 
+    border: 1px solid black; 
+    margin: 10px;
+} 
+.border{ 
+    border: 5px solid white;
+}

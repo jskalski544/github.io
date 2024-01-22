@@ -1,0 +1,59 @@
+body { 
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #ececec;
+  }
+  
+  .content {
+    width: 400px; 
+    margin-left: 700px;    
+  }
+  
+  h2 {
+    color: #045137; 
+    text-align: center; 
+    letter-spacing: 10px; 
+    text-transform: uppercase;
+  }
+  
+  .contact {
+    box-shadow: 0px 0px 10px #a5a5a5; 
+    margin: 20px;  
+}
+  
+  .name {
+    background-color: #045137; 
+    color: white; 
+    display: block; 
+    font-weight: 600;
+    font-size: 20px; 
+    padding: 20px; 
+  } 
+  .mail{ 
+    color: #045137; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+    font-style: italic;  
+    padding: 10px; 
+    
+  } 
+  .address{ 
+    margin: 10px;  
+    text-align: right; 
+    text-wrap: wrap; 
+    display: flex; 
+    flex-direction: column; 
+    align-content: end; 
+    padding: 5px; 
+    span:first-of-type{ 
+        color: #045137; 
+        font-size: 14px;
+    }
+  } 
+  .info{ 
+    padding: 10px; 
+  } 
+  .phone{ 
+    display: inline-block; 
+    margin-bottom: 5px; 
+    padding: 10px;
+  }
