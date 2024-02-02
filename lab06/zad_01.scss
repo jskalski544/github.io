@@ -1,0 +1,17 @@
+.content {
+    display: grid;
+    grid-template-columns: 80px 80px 80px 80px 80px;
+    grid-template-rows: 80px 80px 80px 80px 80px;
+  } 
+.color-plane{ 
+    border: solid 1px black; 
+    color:white; 
+    padding: 5px; 
+    
+} 
+.color-plane:nth-child(2n){ 
+    background-color: sandybrown; 
+} 
+.color-plane:nth-child(2n+1){ 
+    background-color: goldenrod;
+} 

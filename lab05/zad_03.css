@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+}
+
+#outer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 100vh;
+  margin-right: 0;
+}
+
+.box:first-of-type {
+  background-color: lightgrey;
+}
+
+.box:nth-of-type(2) {
+  background-color: gray;
+  align-self: center;
+}
+
+.box:last-of-type {
+  background-color: darkgray;
+  align-self: end;
+  margin-right: 0;
+}
+
+body {
+  overflow: hidden;
+}/*# sourceMappingURL=zad_03.css.map */

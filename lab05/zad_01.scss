@@ -1,0 +1,31 @@
+.container{ 
+    display: flex;    
+} 
+.box{ 
+    height: 300px;  
+    width: 10%; 
+    height: 1000px; 
+    text-align: center; 
+    font-size: 100px;  
+    color: white; 
+    text-shadow: gray 5px 3px 7px;
+} 
+$colors:   violet wheat  whitesmoke  yellow  yellowgreen  turquoise  tomato  thistle  teal  tan ; 
+$i: 1;
+@each $color in $colors { 
+    .box-#{$i} { 
+        background-color: $color;
+    } 
+    $i:$i + 1;
+
+} 
+.box-3{ 
+    order: -1;
+} 
+.box-2{ 
+    order: 1;  
+} 
+.box-7{ 
+    order: 1;
+}
+
